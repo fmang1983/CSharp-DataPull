@@ -1,0 +1,11 @@
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\obj\Debug\netcoreapp2.1\PagerDutyAPITest.csproj.CoreCompileInputs.cache
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\obj\Debug\netcoreapp2.1\PagerDutyAPITest.AssemblyInfoInputs.cache
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\obj\Debug\netcoreapp2.1\PagerDutyAPITest.AssemblyInfo.cs
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\bin\Debug\netcoreapp2.1\PagerDutyAPITest.deps.json
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\bin\Debug\netcoreapp2.1\PagerDutyAPITest.runtimeconfig.json
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\bin\Debug\netcoreapp2.1\PagerDutyAPITest.runtimeconfig.dev.json
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\bin\Debug\netcoreapp2.1\PagerDutyAPITest.dll
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\bin\Debug\netcoreapp2.1\PagerDutyAPITest.pdb
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\obj\Debug\netcoreapp2.1\PagerDutyAPITest.dll
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\obj\Debug\netcoreapp2.1\PagerDutyAPITest.pdb
+C:\Users\fmang\source\repos\PagerDutyAPITest\PagerDutyAPITest\obj\Debug\netcoreapp2.1\PagerDutyAPITest.csprojAssemblyReference.cache
